@@ -1,3 +1,5 @@
+<!-- Author - Zack Akil -->
+
 <?php
 	$apiKey = "[google calender api key]";
 	$calenderId = "[calenderID]@group.calendar.google.com";
